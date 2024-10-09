@@ -1,0 +1,64 @@
+body{
+
+    background-color: rgb(240, 238, 238);
+    display: block;
+margin: 10%;
+font-style: italic;
+position: relative;
+}
+
+
+.fg label {
+    display: block;
+    margin-bottom: 2px;
+font-weight: bold;
+}
+
+.fg input {
+width: 600px;
+height: 35px;
+border-radius: 10px;
+margin-bottom: 20px;
+
+}
+
+#TA{
+
+    width: 500px;
+    height: 200px;
+}
+
+#Su{
+margin-top: 40px;
+    width: 500px;
+    color: white;
+    background-color: black;
+    height: 40px;
+
+}
+
+h1 {
+    margin-left: 200px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 40px;
+    
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+ right: 0px;
+    background-color: #f0f0f0;
+    padding: 10px ;
+    border: 0.3px solid black;
+    width:150px;
+    height: 34px;
+}
+
+span{
+    font-size: 20px; 
+    font-style: italic;
+    font-weight: bold;
+
+
+}
